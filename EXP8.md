@@ -1,4 +1,4 @@
-# Ex.No: 9  Test cases for Banking Application
+# Ex.No: 8  Test cases for Banking Application
 
 ### DATE: 21.11.2024                                                                           
 ### REGISTER NUMBER :212222040097
